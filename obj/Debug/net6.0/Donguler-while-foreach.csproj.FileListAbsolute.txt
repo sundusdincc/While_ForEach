@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\bin\Debug\net6.0\Donguler-while-foreach.exe
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\bin\Debug\net6.0\Donguler-while-foreach.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\bin\Debug\net6.0\Donguler-while-foreach.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\bin\Debug\net6.0\Donguler-while-foreach.dll
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\bin\Debug\net6.0\Donguler-while-foreach.pdb
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\Donguler-while-foreach.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\Donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\Donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\Donguler-while-foreach.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\Donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\Donguler-while-foreach.dll
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\refint\Donguler-while-foreach.dll
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\Donguler-while-foreach.pdb
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\Donguler-while-foreach.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Donguler-while-foreach\obj\Debug\net6.0\ref\Donguler-while-foreach.dll
