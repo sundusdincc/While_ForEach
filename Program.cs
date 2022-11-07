@@ -23,41 +23,56 @@
             sum += number;
         }
         Console.WriteLine("Sum = {0}", sum);
-        
+
         string[] isimler = {"Ahmet CANSEVER","Emirhan SOYLU","Elif SÜTÇÜ",
                                 "Hakan ALTIN","Sema ÇALIŞKAN"};
-            foreach(string eleman in isimler)
-            {
-                Console.WriteLine(eleman);
-            }
-            
+        foreach (string eleman in isimler)
+        {
+            Console.WriteLine(eleman);
+        }
 
 
 
-            //20 elemanlı bir diziye 1-100 arası rasgele değer atarak bu diziyi Foreach döngüsü kullanarak yazdırma
-            int[] dizi = new int[20];
-            Random rnd = new Random();
-            for(int i=0;i<dizi.Length;i++)
+
+
+        //20 elemanlı bir diziye 1-100 arası rasgele değer atarak bu diziyi Foreach döngüsü kullanarak yazdırma
+        int[] dizi = new int[20];
+        Random rnd = new Random();
+        for (int i = 0; i < dizi.Length; i++)
+        {
+            dizi[i] = rnd.Next(1, 100);
+        }
+        int kucuk = dizi[0];
+        int buyuk = dizi[0];
+
+        foreach (int value in dizi)
+        {
+            Console.WriteLine(value);
+            if (value < kucuk)
             {
-                dizi[i] = rnd.Next(1,100);
+                kucuk = value;
             }
-            int kucuk = dizi[0];
-            int buyuk = dizi[0];
- 
-            foreach (int value in dizi)
+            if (value > buyuk)
             {
-                Console.WriteLine(value);
-                if (value < kucuk)
-                {
-                    kucuk = value;
-                }
-                if (value > buyuk)
-                {
-                    buyuk = value;
-                }
+                buyuk = value;
             }
-            Console.WriteLine("En büyük değer : {0}", buyuk);
-            Console.WriteLine("En küçük değer : {0}", kucuk);
-            Console.ReadKey();
+        }
+        Console.WriteLine("En büyük değer : {0}", buyuk);
+        Console.WriteLine("En küçük değer : {0}", kucuk);
+        Console.ReadKey();
+
+
+        //While
+        int x = 10;
+
+        // Exit when x becomes less than 5
+        while (x > 4)
+        {
+            Console.WriteLine("Value " + x);
+
+            // Decrement the value of x for
+            // next iteration
+            x--;
+        }
     }
 }
